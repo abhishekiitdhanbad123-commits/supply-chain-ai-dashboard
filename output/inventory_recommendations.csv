@@ -1,0 +1,4 @@
+product,forecast_7_days,avg_daily_demand,daily_demand_std,lead_time_days,safety_stock,reorder_point,target_stock,available_stock,suggested_replenishment,stock_status
+Brownie,602.54,86.08,12.91,3,36.9,295.13,897.67,350,548.0,ABOVE REORDER POINT
+Chocolate_Cake,334.12,47.73,7.16,3,20.46,163.66,497.78,180,318.0,ABOVE REORDER POINT
+Croissant,890.3,127.19,19.08,3,54.52,436.08,1326.38,500,827.0,ABOVE REORDER POINT
